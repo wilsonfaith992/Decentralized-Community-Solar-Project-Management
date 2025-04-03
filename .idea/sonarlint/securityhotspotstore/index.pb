@@ -7,3 +7,7 @@ W
 'tests/installation-verification.test.ts,6/e/6e93c78cd46eb79d3ce46cd448aa87697faee1b2
 O
 contracts/outcome-tracking.clar,5/5/5585fcc6b179ad4c0e8cd6ed798f933138aaae21
+U
+%contracts/participant-management.clar,9/7/976498a1babb06457207866321ae2b48d439c4d5
+T
+$tests/participant-management.test.ts,5/f/5f75b7b7c37bcc52541b60255668e5fda732a4ec
